@@ -1,0 +1,54 @@
+h1 {
+    color: pink;
+    background-color: rgb(126, 126, 238);
+}
+body {
+    background-color: rgb(226, 221, 221);
+}
+
+p {
+    color: red;
+    font-size: 50%;
+}
+.hoho {
+    color: red;
+}
+.hoho:hover {
+    border: 2px dotted yellow;
+    transition: 1s;
+}
+
+#info {
+    color: blue;
+}
+
+#table_style {
+    background-color: rgb(212, 157, 73);
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+#table_style th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#table_style tr {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#table_style td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.red {
+    color: red;
+}
